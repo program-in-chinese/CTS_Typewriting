@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "target": "es2015",
+        "中文关键字": true,
+        "newLine": "lf",
+        "outDir": "输出\\",
+        "module": "commonjs"
+    },
+    "exclude": [
+        "out",
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
